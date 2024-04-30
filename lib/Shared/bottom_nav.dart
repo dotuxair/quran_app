@@ -32,17 +32,17 @@ class _BottomNavBarState extends State<BottomNavBar> {
           children: const [
             Center(
               child: Text(
-                'Learn 📗',
+                'Home Page',
               ),
             ),
             Center(
               child: Text(
-                'Relearn 👨‍🏫',
+                'Quran Page',
               ),
             ),
             Center(
               child: Text(
-                'Unlearn 🐛',
+                'Profile Page',
               ),
             ),
           ],

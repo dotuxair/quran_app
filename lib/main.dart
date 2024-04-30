@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:quran_app/Pages/home.dart';
 
 void main() {
+  assert(false, 'Release mode only');
   runApp(const MyApp());
 }
 
